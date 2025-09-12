@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshKumar-coders/LeetCode/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/HarshKumar-coders/LeetCode/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HarshKumar-coders/LeetCode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarshKumar-coders/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarshKumar-coders/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
