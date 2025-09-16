@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshKumar-coders/LeetCode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/HarshKumar-coders/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/HarshKumar-coders/LeetCode/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshKumar-coders/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/HarshKumar-coders/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/HarshKumar-coders/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
