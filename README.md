@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HarshKumar-coders/LeetCode/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/HarshKumar-coders/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/HarshKumar-coders/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/HarshKumar-coders/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/HarshKumar-coders/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
